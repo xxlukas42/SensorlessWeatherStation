@@ -1,0 +1,1 @@
+Put these fonts to your Adafruit_GFX_Library (default path in Windows is: C:\Users\<user>\Documents\Arduino\libraries\Adafruit_GFX_Library\Fonts)
